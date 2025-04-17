@@ -308,9 +308,9 @@ function processThreads() {
   appendSummaryLog(new Date().toISOString().slice(0, 10), counts);
 }
 
-/** Schedules processThreads every 30 MIN */
+/** Schedules processThreads every 12 Hours */
 function createScheduler() {
-  ScriptApp.newTrigger("processThreads").timeBased().everyMinutes(30).create();
+  ScriptApp.newTrigger("processThreads").timeBased().everyHours(12).create();
 }
 
 /** Store API key once. */
