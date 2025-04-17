@@ -87,5 +87,5 @@ You can get a key from: https://platform.openai.com/account/api-keys
 ---
 
 **Charan Reddy Kumar**  
-🔗 [LinkedIn](https://www.linkedin.com/in/charanreddykumar)  
-💻 [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://www.linkedin.com/in/charan-reddy-kumar-2b0319114/)  
+💻 [GitHub](https://github.com/CharanReddyKumar)
