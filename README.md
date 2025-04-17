@@ -86,11 +86,6 @@ You can get a key from: https://platform.openai.com/account/api-keys
 
 ---
 
-
-The script creates and maintains two CSV files in your Google Drive:
-
-- `JobAppsLog.csv`:  
-  A log of every processed email with the following fields:
 **Charan Reddy Kumar**  
 🔗 [LinkedIn](https://www.linkedin.com/in/charanreddykumar)  
 💻 [GitHub](https://github.com/yourusername)
