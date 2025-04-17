@@ -86,7 +86,6 @@ You can get a key from: https://platform.openai.com/account/api-keys
 
 ---
 
-## 📂 Google Drive Outputs
 
 The script creates and maintains two CSV files in your Google Drive:
 
